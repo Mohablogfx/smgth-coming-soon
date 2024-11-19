@@ -19,6 +19,7 @@
             { src: 'images/slide-image08.jpg' }
         ],
         timer: false,
+        delay: 2000,
         transition: [ 'zoomOut', ]
     });
 
