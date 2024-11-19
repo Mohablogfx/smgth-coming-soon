@@ -1,1 +1,1 @@
-# smgth-coming-soon
+# SMGTH coming soon
